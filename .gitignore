@@ -1,0 +1,5 @@
+/vendor
+.env
+monitoringGo
+.exe
+log.txt
